@@ -1,5 +1,5 @@
 - 👋 Hi, This is Dogan
-- This is my virtual workspace for all thing subjectively interesting :)
+- This is my virtual workspace for all things subjectively interesting :)
 
 <!---
 mdsinar/mdsinar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
